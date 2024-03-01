@@ -1,5 +1,5 @@
 #
-export PACS_ROOT=/home/forma/Work/Didattica/HPC_Courses/Pacs-examples/Examples/
+export PACS_ROOT=/home/fpettenon/PACS/pacs-examples/Examples
 # To simulate modules. You have to replace with your own installation
 # This is the situation in my PC (Luca Formaggia)
 #
@@ -19,6 +19,6 @@ export mkBoostInc=/usr/include
 export mkBoostLib=/usr/lib/x86_64-linux-gnu/
 export mkHdf5Lib=/usr/lib/x86_64-linux-gnu/hdf5/serial/
 export mkHdf5Inc=/usr/include/hdf5/serial/
-export PACS_ROOT=/home/forma/Work/Didattica/HPC_Courses/Pacs-examples/Examples/
+export PACS_ROOT=/home/fpettenon/PACS/pacs-examples/Examples
 export mkPybind11Prefix=${PACS_ROOT}/share/cmake/
 
